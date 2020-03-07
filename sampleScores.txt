@@ -1,86 +1,1181 @@
+3M Co.	St. Paul	MN	2	2	2	2	2	2	2	2	2
+A.T. Kearney Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+A|X Armani Exchange	New York	NY	9	9	2			2	2
+Abbott Laboratories	Abbott Park	IL	2	2	2	x	2	2	2	2
+AbbVie Inc.	North Chicago	IL	2	2	2	2	2	2	2	2	2
+Abercrombie & Fitch Co.	New Albany	OH	2	2	2	2	2	2	2	2	2
+ABM Industries Inc.	New York	NY	9	9
+Accenture	New York	NY	2	2	2	2	2	2	2	2	2
+Activision Blizzard	Santa Monica	CA	2	2	2	2	2	2	2	2	2
+Adidas North America Inc.	Portland	OR	2	2	2	2	2	2	2	2	2
+Adobe Systems Inc.	San Jose	CA	2	2	2	2	2	2	2	2	2
+ADP	Roseland	NJ	2	2	2	2	2	2	2	2	2
+Advance Auto Parts (Advance Holding)	Raleigh	NC	2	2	2		2	2	2	2	2
+Advanced Micro Devices Inc.	Santa Clara	CA	2	2	2	2	2	2	2	2	2
+AECOM	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Aero OpCo LLC	Lyndhurst	NJ	2	2	2	2	2	2		2	2
+AES Corp., The	Arlington	VA	2	2	2		2	2	2	2
+Aflac Inc.	Columbus	GA	2	2	2		2	2	2
+Agco	Duluth	GA	9
+Agilent Technologies Inc.	Santa Clara	CA	2	2	2	2	2	2			2
+AIG	New York	NY	2	2	2	2	2	2	2	2	2
+Air Liquide	Houston	TX	2	2	2	2	2	2	2	2	2
+Air Products & Chemicals Inc.	Allentown	PA	2	2	2	2	2	2	2	2	2
+Airbnb Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Airbus Americas Inc.	Herndon	VA	2	2	2	2	2	2	2	2	2
+Airlines Reporting Corporation (ARC)	Dunn Loring	VA	2	2	2	2	2		2	2
+AK Steel Holding Corp.	West Chester	OH	9	9
+Akamai Technologies Inc.	Cambridge	MA	2	2	2	2	2	2	2	2	2
+Akerman LLP	Miami	FL	2	2	2	2	2	2	2	2	2
+Akin, Gump, Strauss, Hauer & Feld LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Alaska Airlines	Seattle	WA	2	2	2		2	2	2	2	2
+Albertsons Companies Inc.	Boise	ID	2	2	2		x		2	2	2
+Alcoa Corp.	Pittsburgh	PA	2	2	2	x	2	2	2	2	2
+Alcon Inc	Fort Worth	TX	2	2	2	2	2		2	2	2
+Alight Solutions	Lincolnshire	IL	2	2	2	2	x	2	2	2	2
+AlixPartners LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Alleghany Corp.	New York	NY	9	9
+Alliance Data Systems Corp.	Columbus	OH	2	2	2	x			2	9
+Alliance One International	Morrisville	NC	2	2
+AllianceBernstein LP	Nashville	TN	2	2	2	2	2	2	2	2	2
+Alliant Energy Corp.	Madison	WI	2	2	2	2	2	2	2	2	2
+Allianz Life Insurance Co. of North America	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Allscripts-Misys Healthcare Solutions Inc.	Chicago	IL	9	9	2
+Allstate Insurance Co.	Northbrook	IL	2	2	2	x	2	2	2	2	2
+Ally Financial Inc.	Detroit	MI	2	2	2	2	2	2	2	2	2
+Alston & Bird LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Altice USA Inc.	Long Island City	NY	2	2	2	2	2	2	2	2	2
+Altria Group Inc.	Richmond	VA	2	2	2	2	2	2	2	2	2
+A-Mark Precious Metals	El Segundo	CA
+Amazon.com Inc.	Seattle	WA	2	2	2	2	2	2	2	2	2
+AMC Entertainment Inc.	Leawood	KS	2	2	2	2	2	2	2	2	2
+Ameren Corp.	St. Louis	MO	2	2	2	2	2	2	2	2	2
+American Airlines	Fort Worth	TX	2	2	2	2	2	2	2	2	2
+American Apparel LLC	Los Angeles	CA	2	2	2		x	2	2		2
+American Axle & Manufacturing	Detroit	MI	9	9
+American Eagle Outfitters Inc.	Pittsburgh	PA	2	2	2		2	2	2	2	2
+American Electric Power Co. Inc.	Columbus	OH	2	2	2	2	2	2	2	2	2
+American Express Company	New York	NY	2	2	2	2	2	2	2	2	2
+American Express Global Business Travel	Jersey City	NJ	2	2	2	2	2	2	2	2	2
+American Family Mutual Insurance Company, S.I	Madison	WI	2	2	2	2	2	2	2	2	2
+American Financial Group	Cincinnati	OH	9	9
+American Tower Corp.	Boston	MA	2	2	2	2		2	2	9	2
+Ameriprise Financial Inc.	Minneapolis	MN	2	2	2		2	2	2	2	2
+AmerisourceBergen Corp.	Chesterbrook	PA	2	2	2	2	2	2	2	2	2
+Amgen Inc.	Thousand Oaks	CA	2	2	2	2	2	2	2	2	2
+AMN Healthcare Services Inc.	San Diego	CA	2	2	2	2	x	2	2	2	2
+Amphenol Corp.	Wallingford	CT	9	9
+AmTrust Financial Services	New York	NY	9	9
+Anadarko Petroleum	The Woodlands	TX	2	2	2	2				9	2
+Anheuser-Busch Companies Inc.	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Anixter International Inc.	Glenview	IL	9	9
+Anschutz Entertainment Group, Inc.	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Anthem Inc.	Indianapolis	IN	2	2	2	2	2	2	2	2	2
+Aon Corp.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Apache Corp.	Houston	TX	9	9
+Apple Inc.	Cupertino	CA	2	2	2	2	2	2	2	2	2
+Applied Materials Inc.	Santa Clara	CA	2	2	2	2	2	2	2	2	2
+AQR Capital Management LLC	Greenwich	CT	2	2	2	2	2	2	2	2	2
+Aramark Corp.	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Arcadis U.S. Inc.	Highlands Ranch	CO	2	9	2	2	2	2	2	2	2
+Archer Daniels Midland Co.	Chicago	IL	2	2	2	2	2		2
+Arconic	New York	NY	2	2	2	2	2	2	2	2	2
+Arent Fox LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Armstrong Teasdale LLP	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Arnold & Porter Kaye Scholer LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Arrow Electronics	Centennial	CO	2	2	2	2	2	2	2	2	2
+Arthur J. Gallagher & Co.	Rolling Meadows	IL	2	2	2	2	2	2	2	2	2
+Arup USA Inc	New York	NY	2	2	2		2	2	2	2	2
+Asbury Automotive Group	Duluth	GA	9	9
+Ascena Retail Group Inc.	Mahwah	NJ	2	2	2		2	2	2	2	2
+Ashland Inc.	Covington	KY	2	2	2
+Assurant	New York	NY	2	2	2	2	2	2	2	2	2
+Astellas Pharma US Inc.	Northbrook	IL	2	2	2	2	2	2	2	2	2
+AstraZeneca PLC	Wilmington	DE	2	2	2	2	2	2	2	2	2
+Asurion LLC	Nashville	TN	2	2	2	2	2	2	2	2	2
+AT&T Inc.	Dallas	TX	2	2	2	2	2	2	2	2	2
+AthenaHealth Inc.	Watertown	MA	2	2	2	2	x	2	2	2
+Atlassian	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Autodesk Inc.	San Rafael	CA	2	2	2	2	2	2	2	2	2
+Autoliv Inc.	Auburn Hills	MI	9	9
+Auto-Owners Insurance Group	Lansing	MI
+AutoZone Inc.	Memphis	TN	2	2	2
+Avaya Inc.	Santa Clara	CA	2	2	2	2			2
+Avery Dennison	Glendale	CA	2	2	2		2	2	2	2
+Avis Budget Group Inc.	Parsippany	NJ	2	2	2	2	x	2	2	2	2
+Avnet Inc.	Phoenix	AZ	2	2	2		2	2		2	2
+Avon Products Inc.	Rye	NY	2	2	2	2	x	2	2		2
+AXA Equitable Life	New York	NY	2	2	2	2	2	2	2	2	2
+Axiom Global Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+B J’s Wholesale Club	Westborough	MA	2	2	2		2	2	2	2	2
+BAE Systems Inc.	Arlington	VA	2	2	2	2	2	2	2	2	2
+Bain & Co. Inc./ Bridgespan Group	Boston	MA	2	2	2	2	2	2	2	2	2
+Baker & Hostetler LLP	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Baker & McKenzie LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Baker Botts LLP	Houston	TX	2	2	2	2	2	2	2	9
+Baker, Donelson, Bearman, Caldwell & Berkowitz PC	Memphis	TN	2	2	2		2	2	2	2	2
+Ball Corp.	Broomfield	CO	2	2	2	x	2	2	2	2	2
+Ballard Spahr LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Bank of America Corp.	Charlotte	NC	2	2	2	2	2	2	2	2	2	2
+Bank of New York Mellon Corp., The	New York	NY	2	2	2	2	2	2	2	2	2
+Bank of the West	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Barclays	New York	NY	2	2	2	2	2	2	2	2	2
+Barilla America Inc.	Northbrook	IL	2	2	2	2	2	2	2	2	2
+Barnes & Noble Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Barnes & Thornburg LLP	Indianapolis	IN	2	2	2		2	2	2	9
+BASF Corp.	Florham Park	NJ	2	2	2	2	2	2	2	2	2
+Bass, Berry & Sims PLC	Nashville	TN	2	2	2	2	2	2	2	2	2
+Battelle Energy Alliance (Idaho National Laboratory)	Idaho Falls	ID	2	2	2	x	2	2	2	2	2
+Battelle Memorial Institute Inc.	Columbus	OH	2	2	2		2		2	9	2
+Baxter International Inc.	Deerfield	IL	2	2	2	2	2	2	2	2	2
+Bayer U.S. LLC	Whippany	NJ	2	2	2	2	2	2	2	2	2
+BB&T Corp.	Winston-Salem	NC	2	2	2	2	2	2	2	2	2
+BBVA USA	Birmingham	AL	2	2	2	2	2	2	2	2	2
+Becton, Dickinson and Co.	Franklin Lakes	NJ	2	2	2	2	2	2	2	2	2
+Bed Bath & Beyond Inc.	Union	NJ	9	9
+Ben & Jerry’s Homemade Inc.	South Burlington	VT	2	2	2	2	2	2	2	2	2
+Berkshire Hathaway	Omaha	NE
+Berry Plastics Group Inc.	Evansville	IN	9	9
+Best Buy Co. Inc.	Richfield	MN	2	2	2	2	2	2	2	2	2
+Big Lots	Columbus	OH	2	2	2		2	2	2	2	2
+Biogen	Cambridge	MA	2	2	2	2	2	2	2	2	2
+Black & Veatch Holding Inc.	Overland Park	KS	2	2	2	2	2	2	2	2	2
+Black Knight Inc.	Jacksonville	FL	2	2	2	2	2	2	2	2	2
+BlackRock	New York	NY	2	2	2	2	2	2	2	2	2
+Blackstone Group LP, The	New York	NY	2	2	2	2	2	2	2	2	2
+Blank Rome LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Bloomberg LP	New York	NY	2	2	2	2	2	2	2	2	2
+Bloomin’ Brands Inc.	Tampa	FL	2	2	2			2
+Blue Cross & Blue Shield of Rhode Island	Providence	RI	2	2	2	2	2	2	2	2	2
+Blue Cross and Blue Shield of Louisiana	Baton Rouge	LA	2	2	2			2	2	9
+Blue Cross Blue Shield of Florida Inc.	Jacksonville	FL	2	2	2	2	2	2	2	2	2
+Blue Cross Blue Shield of Massachusetts	Boston	MA	2	2	2	2	2	2	2	2	2
+Blue Cross Blue Shield of Michigan	Detroit	MI	2	2	2		2	2	2	2
+Blue Cross Blue Shield of Minnesota	Eagan	MN	2	2	2	2	2	2	2	2	2
+Blue Cross Blue Shield of North Carolina	Durham	NC	2	2	2		x	2	2		2	2
+Blue Shield of California	San Francisco	CA	2	2	2	2	2	2	2	2	2
+BlueCross BlueShield of Tennessee	Chattanooga	TN	2	2	2	2	2	2	2	2	2
+BMC Software Inc.	Houston	TX	2	2	2						2
+BMO Bankcorp Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+BNP Paribas	New York	NY	2	2	2	2	2	2	2	2	2
+Bob Evans Farms Inc.	New Albany	OH	2	2	2			2	2
+Boehringer Ingelheim USA Corp.	Ridgefield	CT	2	2	2	2	2	2	2	2	2
+Boeing Co.	Chicago	IL	2	2	2		2	2	2	2	2
+Boies Schiller Flexner LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Books-A-Million Inc.	Birmingham	AL	2	2	2	x		2	2	2
+Booz Allen Hamilton Inc.	McLean	VA	2	2	2	2	2	2	2	2	2
+BorgWarner Inc.	Auburn Hills	MI	2	2	2			2	2		2
+Boston Consulting Group	Boston	MA	2	2	2	2	2	2	2	2	2
+Boston Scientific Corp.	Marlborough	MA	2	2	2	2	2	2	2	2	2
+Box Inc.	Redwood City	CA	2	2	2	2	2	2	2	2	2
+BP America Inc.	Houston	TX	2	2	2	2	2	2	2	2	2
+Bracewell LLP	Houston	TX	2	2	2	2	2	2	2	2
+Bridgestone Americas Holding Inc.	Nashville	TN	2	2	2		2	2	2	2	2
+Bridgewater Associates LP	Westport	CT	2	2	2	2	2	2	2	2	2
+Bright Horizons	Watertown	MA	2	2	2		2	2	2	2	2
+Brinker International Inc.	Dallas	TX	2	2	2	2	x		2
+Bristol-Myers Squibb Co.	New York	NY	2	2	2	2	2	2	2	2	2
+Broadridge Financial Solutions Inc.	Lake Success	NY	2	2	2	2	2	2	2	2	2
+Brooks Brothers Group Inc.	New York	NY	2	2	2	2		2	2	2	2
+Brooks Sports Inc.	Seattle	WA	2	2	2	2	2	2	2	2	2
+Brown Advisory	Baltimore	MD	2	2	2	2	2	2	2	2	2
+Brown Brothers Harriman & Co.	New York	NY	2	2	2	2	2	2	2	2	2
+Brown Rudnick LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Brown-Forman Corp.	Louisville	KY	2	2	2	2	2	2	2	2	2
+Brownstein Hyatt Farber Schreck LLP	Denver	CO	2	2	2	2	2	2	2	2
+Bryan Cave Leighton Paisner LLP	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Buchanan Ingersoll & Rooney PC	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Buckley LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Builders FirstSource Inc.	Dallas	TX	9	9
+Burlington Northern Santa Fe Corp.	Fort Worth	TX	9	9	2
+Burlington Stores Inc.	Burlington	NJ	2	2	2	2	x		2	9	2
+Burr & Forman LLP	Birmingham	AL	2	2	2		2	2	2	2	2
+Buzzfeed	New York	NY	2	2	2	2	2	2	2	2	2
+C&S Wholesale Grocers Inc.	Keene	NH	2	2	2	2		2	2	2	2
+C. H. Robinson Worldwide	Eden Prairie	MN	9	9
+CA Technologies Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Cadwalader, Wickersham & Taft LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Caesars Entertainment Corp.	Las Vegas	NV	2	2	2	2	2	2	2	2	2
+Cahill Gordon & Reindel	New York	NY	2	2	2	2	x	2	2	2	2
+Caleres	St. Louis	MO	2	2	2	x	2	2	2	2	2
+Calpine Corp.	Houston	TX	9		2
+Cambia Health Solutions Inc.	Portland	OR	2	2	2	2	2	2	2	2	2
+Campbell Soup Co.	Camden	NJ	2	2	2	2	2		2	9	2
+Capgemini America, INC	Chicago	IL	2	2	2	2	2	2	2	2	2
+Capital Area Services Company, LLC (CASCI)	Charleston	WV	2	2	2	2	2	2	2	2	2
+Capital Group Companies Inc., The	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Capital Markets Company NV, The	New York	NY	2	2	2	2	2	2	2	2	2
+Capital One Financial Corp.	McLean	VA	2	2	2	2	2	2	2	2	2
+Cardinal Health Inc.	Dublin	OH	2	2	2	2	2	2	2	2	2
+CareFirst Inc.	Baltimore	MD	2	2	2	2	2	2	2	2	2
+Cargill Inc.	Wayzata	MN	2	2	2	2	2	2	2	2	2
+Cargo Transporters Inc.	Claremont	NC	2	2	2	2	2	2	2	2	2
+Caribou Coffee Company Inc.	Minneapolis	MN	2	2	2						2
+Carlson Inc.	Minnetonka	MN	2	2	2	2	2	2	2	2	2
+Carlton Fields P.A.	Tampa	FL	2	2	2	2	2	2	2	2	2
+Carlyle Group LP, The	Washington	DC	2	2	2	2	2	2	2	2	2
+CarMax Inc.	Richmond	VA	2	2	2	2	2	2	2	2	2
+Carnival Corp.	Miami	FL	2	2	2	2	2	2	2	2	2
+Casey’s General Stores Inc.	Ankeny	IA
+Caterpillar Inc.	Deerfield	IL	2	2	2		2	2	2	9
+CBRE Inc.	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+CBS Corp.	New York	NY	2	2	2	2	2	2	2	2	2
+CDW Corp.	Lincolnshire	IL	2	2	2	2	2	2	2	2	2
+Celanese Corp.	Irving	TX	2	2	2	2	2	2	2	2	2
+Celgene Corp.	Summit	NJ	2	2	2	2	2	2	2	2	2
+Cengage Learning Inc.	Boston	MA	2	2	2	2		2	2	2	2
+Centene Corp.	St. Louis	MO	2	2	2	2	2	2	2	2	2
+CenterPoint Energy Inc.	Houston	TX	9	9
+CenturyLink Inc.	Monroe	LA	2	2	2	2	2	2	2	2	2
+Cerner Corp.	North Kansas City	MO	2	2	2	2	2	2	2	2	2
+Change Healthcare	Nashville	TN	2	2	2		2	2	2	2	2
+Chapman and Cutler LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Charles Schwab & Co. Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Charter Communications	Stamford	CT	2	2	2		2	2	2	2	2
+Chesapeake Energy Corp.	Oklahoma City	OK	2	2	2		2	2	2
+Chevron Corp.	San Ramon	CA	2	2	2	2	2	2	2	2	2
+CHG Healthcare Inc.	Midvale	UT	2	2	2	2	2		2	2
+Chico’s FAS Inc.	Fort Myers	FL	2	2	2	2			2	2
+Chipotle Mexican Grill Inc.	Newport Beach	CA	2	2	2	2	2		2	2	2
+Choate, Hall & Stewart LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Chobani	Norwich	NY	2	2	2	2	2	2	2	2	2
+Choice Hotels International Inc.	Rockville	MD	2	2	2	2	2	2	2	2	2
+CHS Inc.	Inver Grove Heights	MN	9	9
+Chubb Ltd.	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+CIBC Bank USA	New York	NY	2	2		2		2	2
+CIGNA Corp.	Bloomfield	CT	2	2	2	2	2	2	2	2	2
+Cimpress USA Inc	Waltham	MA	2	2	2	2	2		2	2	2
+Cincinnati Financial Corp.	Fairfield	OH	9
+Cintas Corp.	Cincinnati	OH	9	9
+Cisco Systems Inc.	San Jose	CA	2	2	2	2	2	2	2	2	2
+CIT Group Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Citigroup Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Citizens Financial Group	Providence	RI	2	2	2	2	2	2	2	2	2
+Citrix Systems Inc.	Fort Lauderdale	FL	2	2	2	2	2	2	2	2	2
+Cleary Gottlieb Steen & Hamilton LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Clifford Chance US LLP	New York	NY	2	2	2		2	2	2	2	2
+Clorox Co., The	Oakland	CA	2	2	2	2	2	2	2	2	2
+Cloudera Inc.	Palo Alto	CA	2	2	2		x	2	2		2
+CME Group Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+CNA Financial Corporation	Chicago	IL	2	2	2	2	2	2	2	2	2
+CNO Financial Group Inc.	Carmel	IN	2	2	2		2	2	2	9	2
+Coca-Cola Co., The	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Cognizant Technology Solutions Corp.	Teaneck	NJ	2	2	2				2	2	2
+Colgate-Palmolive Co.	New York	NY	2	2	2	2	2	2	2	2	2
+Comcast NBCUniversal	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Comerica Inc.	Dallas	TX	2	2	2	2	2	2	2	2	2
+Community Care Behavioral Health Organization	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Community Health Systems, Inc.	Franklin	TN	9	9
+Compass Group USA Inc.	Charlotte	NC	2	2	2			2	2	2	2
+Conagra Brands Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Conduent Inc.	Florham Park	NJ	2	2	2	2			2	2	2
+ConocoPhillips	Houston	TX	2	2	2	2	2	2	2	2	2
+Consolidated Edison Co.	New York	NY	2	2	2		x	2	2
+Constellation Brands Inc.	Victor	NY	2	2	2	2	2	2	2	2	2
+CONSUMER REPORTS INC.	Yonkers	NY	2	2	2	2	x	2	2
+Consumers Energy	Jackson	MI	2	2	2		2		2	2
+Convergys Corp.	Cincinnati	OH	2	2	2	2	x	2	2	9	2
+Cooley LLP	Palo Alto	CA	2	2	2	2	2	2	2	2	2
+Cooper Tire & Rubber Co.	Findlay	OH	2	2	2	2	2	2	2	2	2
+CoreLogic	Irvine	CA	9	9	2			2	2
+Core-Mark Holding Company Inc.	Westlake	TX	2	2	2		x
+Corning	Corning	NY	2	2	2		2	2	2	2	2
+Corteva Agriscience	Indianapolis	IN	2	2	2	2	2	2	2	2	2
+Cosmopolitan of Las Vegas, The	Las Vegas	NV	2	2	2	2	2	2	2	2	2
+Costco Wholesale Corp.	Issaquah	WA	2	2	2			2	2
+Coty	New York	NY	9	9
+Covington & Burling LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Cox Enterprises Inc.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Cozen O’Connor	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Cracker Barrel Old Country Store Inc.	Lebanon	TN	2	2	2			2	2	2	2
+Crate and Barrel / CB2	Northbrook	IL	2	2	2		2	2		2	2
+Cravath, Swaine & Moore LLP	New York	NY	2	2	2		2	2	2	2	2
+Credit Suisse USA Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Crowell & Moring LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Crown Holdings	Philadelphia	PA	9	9
+CSAA Insurance Group	Walnut Creek	CA	2	2	2	2	2	2	2	2	2
+CSX Corp.	Jacksonville	FL	2	2	2		x	2	2	9	2
+Cummins Inc.	Columbus	IN	2	2	2	2	2	2	2	2	2
+CUNA Mutual Group	Madison	WI	2	2	2	2	2	2	2	2	2
+Cushman & Wakefield	Chicago	IL	2	2	2	2	2	2	2	2	2
+CVS Health Corp.	Woonsocket	RI	2	2	2		2	2	2	2	2
+Daimler Trucks North America LLC	Portland	OR	2	2	2		2	2	2	2	2
+Dana Inc.	Maumee	OH	2	2	2		2	2	2	2	2
+Danaher Corp.	Washington	DC	2	2	2	2	2	2	2	2	2
+Daniel J. Edelman Inc.	New York	NY	2	2	2		2	2	2	2	2
+Danone North America	White Plains	NY	2	2	2	2	2	2	2	2	2
+Darden Restaurants Inc.	Orlando	FL	2	2	2		2	2	2	2	2
+Davis Polk & Wardwell LLP	New York	NY	2	2	2	2	2	2	2	2
+Davis Wright Tremaine LLP	Seattle	WA	2	2	2	2	2	2	2	2	2
+Day & Zimmermann LLC	Philadelphia	PA	2	2	2	2	2	2	2	2
+Day Pitney LLP	Parsippany	NJ	2	2	2	2	2	2	2	2	2
+DCP Midstream Partners	Denver	CO	9	9
+Debevoise & Plimpton LLP	New York	NY	2	2	2		x	2	2	2	2
+Dechert LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Deere & Co.	Moline	IL	2	2	2		2	2	2	2	2
+Delek US Holdings	Brentwood	TN	9	9
+Dell Technologies Inc.	Round Rock	TX	2	2	2	2	2	2	2	2	2
+Deloitte LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Delta Air Lines Inc.	Atlanta	GA	2	2	2		x	2	2	2	2
+Denny’s Corp.	Spartanburg	SC	2	2	2	2			2	2
+Dentons US LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Depository Trust & Clearing Corp., The	New York	NY	2	2	2	2	2	2	2	2	2
+Designer Brands	Columbus	OH	2	2	2	2	2	2	2	2	2
+Deutsche Bank	New York	NY	2	2	2	2	2	2	2	2	2
+Devon Energy Corp.	Oklahoma City	OK	2	2	2		2		2		2
+Diageo North America	Norwalk	CT	2	2	2	2	2	2	2	2	2
+Dickinson Wright PLLC	Detroit	MI	2	2	2	2	2	2	2	2	2
+Dick’s Sporting Goods Inc.	Coraopolis	PA	2	2	2			2	2	2	2
+Digitas	Boston	MA	2	2	2	2	2	2	2	2	2
+Dillard’s Inc.	Little Rock	AR	9	9
+Dinsmore & Shohl LLP	Cincinnati	OH	2	2	2		2	2	2	2	2
+Direct Energy	Houston	TX	2	2	2	2	x	2	2	2
+Discover Financial Services	Riverwoods	IL	2	2	2	2	2	2	2	2	2
+Discovery Communications Inc.	Silver Spring	MD	9	9
+DISH Network Corp.	Englewood	CO	9	9
+DLA Piper	Baltimore	MD	2	2	2	2	2	2	2	2	2
+Dole Food Co. Inc.	Westlake Village	CA	9	9	2
+Dollar General Corp.	Goodlettsville	TN	2	2	2		2	2	2	2	2
+Dollar Tree Stores Inc.	Chesapeake	VA	9	9
+Dominion Energy	Richmond	VA	2	2	2	2	2	2	2	2	2
+Domino’s Pizza Inc.	Ann Arbor	MI	2	2	2		2			2
+Dorsey & Whitney LLP	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Dover Corp.	Downers Grove	IL
+Dow	Midland	MI	2	2	2	2	2	2	2	2	2
+DR Horton Inc.	Arlington	TX	9	9
+Drinker Biddle & Reath LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Dropbox Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+DTE Energy Co.	Detroit	MI	2	2	2			2	2	9	2
+Duane Morris LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Duke Energy Corp.	Charlotte	NC	2	2	2	2	2	2	2	2	2
+Dun & Bradstreet Corp., The	Short Hills	NJ	2	2	2	2	2	2	2	2	2
+Dunkin’ Brands Group Inc.	Canton	MA	2	2	2	2	2	2	2	2	2
+DXC Technology	Tysons	VA	2	2	2	2			2
+Dykema Gossett PLLC	Detroit	MI	2	2	2	2	2	2	2	2	2
+E&J Gallo Winery	Modesto	CA	2	2	2	2	2	2	2	2	2
+E*TRADE Financial Corp.	New York	NY	2	2	2	2	2	2	2	2	2
+E. I. du Pont de Nemours and Co. (DuPont)	Wilmington	DE	2	2	2	2	2	2	2	2	2
+EAB	Washington	DC	2	2	2	2	2	2	2	2	2
+Eastern Bank Corp.	Boston	MA	2	2	2	2	2	2	2	2	2
+Eastman Chemical Co.	Kingsport	TN	2	2	2		2	2	2	2	2
+Eastman Kodak Co.	Rochester	NY	2	2	2	2	2	2	2	2	2
+Eaton Corp.	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Eaton Vance	Boston	MA	2	2	2	2	2	2	2	2	2
+eBay Inc.	San Jose	CA	2	2	2	2	2	2	2	2	2
+Ecolab Inc.	St. Paul	MN	2	2	2	2	2	2	2	2	2
+Edison International	Rosemead	CA	2	2	2	2	2	2	2	2	2
+Edward Jones	Des Peres	MO	2	2	2	2	2	2	2	2	2
+Electronic Arts Inc.	Redwood City	CA	2	2	2	2	2	2	2	2	2
+Eli Lilly & Co.	Indianapolis	IN	2	2	2	2	2	2	2	2	2
+EMCOR Group Inc.	Norwalk	CT	9	9
+EMD Serono, MilliporeSigma, and EMD Performance Materials	Burlington	MA	2	2	2	2	2		2	2	2
+Emerson Electric Co.	St. Louis	MO	2	2	2	x	2	2	2	2	2
+Emmis Communications Corporation	Indianapolis	IN	9	9	2			2	2
+Empower Retirement	Greenwood Village	CO	2	2	2	2	2	2	2		2
+Enbridge	Houston	TX	2	2	2	2	2	2	2	2	2
+Encova Insurance	Columbus	OH	2	2	2			2	2	2	2
+Energy Transfer Equity L.P.	Dallas	TX	9	9
+Entergy Corp.	New Orleans	LA	2	2	2		2	2	2	2
+Enterprise Holdings Inc.	St. Louis	MO	2	2	2	2	2	2	2	2
+Enterprise Products Partners LP	Houston	TX
+Envision Healthcare Holdings Inc.	Nashville	TN	9	9
+EOG Resources	Houston	TX	9	9
+Epsilon Data Management LLC	Irving	TX	2	2	2	2	2	2	2	2	2
+Epstein Becker & Green PC	New York	NY	2	2	2			2	2	2	2
+EQT Corporation	Pittsburgh	PA	2	2	2	x	2	2	2	2	2
+Ericsson Inc	Plano	TX	2	2	2	2	2	2	2	2	2
+Erie Insurance Group	Erie	PA	2	2	2		2	2	2	2	2
+Ernst & Young LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Estée Lauder Companies Inc., The	New York	NY	2	2	2	2	2	2	2	2	2
+Esurance Inc.	San Francisco	CA	2	2	2			2	2	9	2
+Ethan Allen Interiors Inc.	Danbury	CT	2	2	2	2	2	2			2
+Etsy Inc.	Brooklyn	NY	2	2	2	2	2	2	2	2	2
+Eversheds Sutherland (US) LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Eversource Energy	Springfield	MA	2	2	2		2	2	2	2
+Evolent Health Inc.	Arlington	VA	2	2	2	2	2	2	2	2
+Excellus Health Plan Inc.	Rochester	NY	2	2	2		2	2	2	2	2
+Exelon Corp.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Expedia Group	Bellevue	WA	2	2	2	2	2	2	2	2	2
+Expeditors International of Washington Inc.	Seattle	WA	9	9
+Experian North America	Costa Mesa	CA	2	2	2	2	2	2	2	2	2
+Exxon Mobil Corp.	Irving	TX	2	2	2		2	2	2	2
+Facebook Inc.	Menlo Park	CA	2	2	2	2	2	2	2	2	2
+FactSet Research Systems Inc.	Norwalk	CT	2	2	2	2	2	2	2	2	2
+Faegre Baker Daniels	Chicago	IL	2	2	2	2	2	2	2	2	2
+Farmers Insurance Group	Woodland Hills	CA	2	2	2	2	2	2	2	2	2
+FCA US LLC	Auburn Hills	MI	2	2	2		2	2	2	2	2
+Federal Home Loan Mortgage Corp. (Freddie Mac)	McLean	VA	2	2	2	2	2	2	2	2	2
+Federal National Mortgage Association (Fannie Mae)	Washington	DC	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Atlanta	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Boston	Boston	MA	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Chicago	Chicago	IL	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Cleveland	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Kansas City	Kansas City	MO	2	2	2	2	2	2	2	9	2
+Federal Reserve Bank of Minneapolis	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of New York	New York	NY	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Philadelphia	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of Richmond	Richmond	VA	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of San Francisco	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Federal Reserve Bank of St Louis	Saint Louis	MO	2	2	2	2	2	2	2	2	2
+FedEx Corp.	Memphis	TN	2	2	2		2	2	2	2
+Fenwick & West LLP	Mountain View	CA	2	2	2	2	2	2	2	2	2
+Fidelity Investments	Boston	MA	2	2	2		2	2	2	2
+Fidelity National Financial Corp.	Jacksonville	FL	9	9
+Fidelity National Information Services Inc.	Jacksonville	FL	2	2	2	2	2	2	2	2	2
+Fifth Third Bancorp	Cincinnati	OH	2	2	2	2	2	2	2	2	2
+Financial Industry Regulatory Authority Inc.	Washington	DC	2	2	2	2	2	2	2	2	2
+Finnegan, Henderson, Farabow, Garrett & Dunner LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Firmenich Inc.	Plainsboro	NJ	2	2	2	x	2		2	2
+First American Financial Corp.	Santa Ana	CA	2	2	2	2	2	2	2	2	2
+First Horizon National Corp.	Memphis	TN	2	2	2		x	2	2	9
+FirstEnergy Corp.	Akron	OH	2	2	2	x		2	2	2
+Fiserv Inc.	Brookfield	WI	9	9
+Fish & Richardson PC	Boston	MA	2	2	2	2	2	2	2	2	2
+Fisher & Phillips LLP	Atlanta	GA	2	2	2	x				2
+Fleishman-Hillard Inc.	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Fluor Corp.	Irving	TX	2	2	2			2	2
+FMC Corp.	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Foley & Lardner LLP	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Foley Hoag LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Food Lion	Salisbury	NC	2	2	2	2	2	2	2	2	2
+Foot Locker Inc.	New York	NY	9	9
+Ford Motor Co.	Dearborn	MI	2	2	2		2	2	2	2	2
+Fortive Corp.	Everett	WA	2	2	2	2	2	2	2	2	2
+Fossil Group Inc.	Richardson	TX	2	2	2	2	2	2	2	2	2
+Fox Corporation	New York	NY	2	2	2	2	2	2	2	2	2
+Fox Rothschild LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Franklin Templeton Investments	San Mateo	CA	2	2	2	2	2	2	2	2	2
+Fredrikson & Byron	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Freeport-McMoRan Copper & Gold Inc.	Phoenix	AZ	9	9
+Fried, Frank, Harris, Shriver & Jacobson LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Frontier Communications	Norwalk	CT	9	9
+Frost Brown Todd LLC	Cincinnati	OH	2	2	2	2	2	2	2	2	2
+Fujitsu America Inc.	Richardson	TX	2	2	2	2	2	2	2	2	2
+Galloway, Johnson, Tompkins, Burr & Smith PLC	New Orleans	LA	2	2	2	2	2	2	2	2	2
+GameStop Corp.	Grapevine	TX	2	2	2	2	2	2	2	2	2
+Gannett Co. Inc.	McLean	VA	2	2	2	2	2	2	2	2	2
+Gap Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Gartner Inc.	Stamford	CT	2	2	2	2	2	2	2	2	2
+Gastronomy Inc.	Salt Lake City	UT	9	9	2
+GE Appliances	Louisville	KY	2	2	2	2	2	2	2	2	2
+Genentech Inc.	South San Francisco	CA	2	2	2	2	2	2	2	2	2
+General Dynamics Corp.	Falls Church	VA	2	2	2			2	2
+General Electric Co.	Boston	MA	2	2	2		2	2	2	2	2
+General Mills Inc.	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+General Motors Co.	Detroit	MI	2	2	2		2	2	2	2	2
+Genesco Inc.	Nashville	TN	2	2	2	2	2	2	2	2	2
+Genuine Parts Co.	Atlanta	GA	9	9
+Genworth Financial Inc.	Richmond	VA	2	2	2	2	2	2	2	2	2
+Giant Eagle Inc.	Pittsburgh	PA	2	2	2		2	2	2	2	2
+GIANT Food Stores LLC	Carlisle	PA	2	2	2	2	2	2	2	2	2
+Giant of Maryland LLC	Landover	MD	2	2	2	2	2	2	2	2	2
+Gibson, Dunn & Crutcher LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Gilead Sciences Inc.	Foster City	CA	2	2	2	2	2	2	2	2	2
+GlassBridge Enterprises, Inc.	Oakdale	MN	2	2
+GlaxoSmithKline LLC	Research Triangle Park	NC	2	2	2	2	2	2	2	2	2
+Global Partners	Waltham	MA	9	9
+Global Payments Inc.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+GODADDY Inc.	Scottsdale	AZ	2	2	2	2	2	2	2	2	2
+Goldman Sachs Group Inc., The	New York	NY	2	2	2	2	2	2	2	2	2
+Goodwin Procter LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Goodyear Tire & Rubber Co.	Akron	OH	2	2	2		2	2	2	2	2
+Gordon Rees Scully Mansukhani, LLP	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Goulston & Storrs	Boston	MA	2	2	2	2	2	2	2	2	2
+Grant Thornton LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Graybar Electric Company Inc.	St. Louis	MO	9	9
+Great River Energy	Maple Grove	MN	2	2	2	2	2		2	2	2
+Greenberg Traurig LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Group 1 Automotive	Houston	TX	9		2
+Groupon Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Guardian Life Insurance Co. of America, The	New York	NY	2	2	2	2	2	2	2	2	2
+Guess? Inc.	Los Angeles	CA	2	2	2		2	2	2	2	2
+Guidehouse Inc.	Washington	DC	2	2	2	2	2	2	2	2	2
+H&R Block Inc.	Kansas City	MO	2	2	2	2	2	2	2	2	2
+Hachette Book Group	New York	NY	9	9	2
+Hain Celestial Group Inc., The	Lake Success	NY	2	2	2		x	2	2	9	2
+Halliburton Co.	Houston	TX	9	9
+Hallmark Cards Inc.	Kansas City	MO	2	2	2	2	2	2	2	2	2
+Hannaford Supermarkets	Scarborough	ME	2	2	2	2	2	2	2	2	2
+Hanover Insurance Group, The	Worcester	MA	2	2	2	2	2	2	2	2	2
+Harley-Davidson Inc.	Milwaukee	WI	2	2	2		2	2	2	2	2
+Hartford Financial Services Group Inc., The	Hartford	CT	2	2	2	2	2	2	2	2	2
+Harvard Pilgrim Health Care Inc.	Wellesley	MA	2	2	2	2	2	2	2	2	2
+Hasbro Inc.	Pawtucket	RI	2	2	2	2	2	2	2	2	2
+Haven Behavioral Healthcare	Nashville	TN	2	2	2	2	2	2	2	2	2
+Hawaiian Airlines Inc.	Honolulu	HI	2	2	2	2	2		2	2
+Haynes and Boone LLP	Dallas	TX	2	2	2	2	2	2	2	2	2
+HCA - Hospital Corporation of America	Nashville	TN	2	2	2		2	2		9
+HD Supply	Atlanta	GA	9	9
+Health Care Service Corp.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Henry Schein Inc.	Melville	NY	2	2	2	2	2	2	2	2	2
+HERE North America LLC	Chicago	IL	2	2	2	2	2	2	2	2	2
+Herman Miller Inc.	Zeeland	MI	2	2	2	2	2	2	2	2	2
+Herrick Feinstein LLP	New York	NY	2	2	2	2	2	2	2		2
+Hershey Co., The	Hershey	PA	2	2	2	2	2	2	2	2	2
+Hertz Global Holdings Inc.	Estero	FL	2	2	2	2	2	2	2	2	2
+Hess Corp.	New York	NY	2	2	2	2	2	2	2		2
+Hewlett Packard Enterprise Co.	San Jose	CA	2	2	2	2	2	2	2	2	2
+Highmark Blue Cross Blue Shield Delaware	Wilmington	DE	2	2	2	2	2	2	2	2	2
+Highmark Inc.	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Highmark West Virginia	Parkersburg	WV	2	2	2	2	2	2	2	2	2
+Hilti Inc.	Planto	TX	2	2	2	2	x	2	2	2
+HILTON	McLean	VA	2	2	2	2	2	2	2	2	2
+Hinshaw & Culbertson LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Hiscox USA	New York	NY	2	2	2	2	2	2	2	2
+Hitachi Consulting Corp.	Dallas	TX	2	2	2	2	2		2	2	2
+Hogan Lovells US LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Holland & Hart LLP	Denver	CO	2	2	2	2	2	2	2	2	2
+Holland & Knight LLP	Brandon	FL	2	2	2	2	2	2	2	2	2
+HollyFrontier Corp.	Dallas	TX	9	9
+Home Depot Inc., The	Atlanta	GA	2	2	2		2	2	2	2	2
+Honda North America Inc.	Marysville	OH	2	2	2		x	2	2	2	2
+Honeywell International Inc.	Morris Plains	NJ	2	2	2			2	2
+Horizon Blue Cross Blue Shield of New Jersey	Newark	NJ	2	2	2	2	2	2	2	2	2
+Hormel Foods Corp.	Austin	MN	2	2	2	x	2	2	2	2	2
+Host Hotels & Resorts Inc.	Bethesda	MD	2	2	2	2	2			2	2
+Houghton Mifflin Harcourt Co.	Boston	MA	2	2	2	2	2	2		9	2
+Howard & Howard Attorneys PLLC	Royal Oak	MI	2	2	2		x			2
+HP Inc.	Palo Alto	CA	2	2	2	2	2	2	2	2	2
+HRG Group	New York	NY
+HSBC USA	New York	NY	2	2	2	2	2	2	2	2	2
+Hughes Hubbard & Reed LLP	New York	NY	2	2	2		2	2	2	2	2
+Humana Inc.	Louisville	KY	2	2	2	2	2	2	2	2	2
+Huntington Bancshares Inc.	Columbus	OH	2	2	2	2	2	2	2	2	2
+Huntington Ingalls Industries	Newport News	VA	2	2	2	x	2	2	2	9	2
+Hunton Andrews Kurth LLP	Washington	DC	2	2	2	2	2	2	2	2
+Huntsman Corp.	The Woodlands	TX	2	2	2
+Huron Consulting Group Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Husch Blackwell LLP	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Hyatt Hotels Corp.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Hyundai Motor America	Fountain Valley	CA	2	2	2	2	2	2	2	2	2
+IAC/InterActiveCorp.	New York	NY	2	2	2	2	2	2	2	2	2
+IBM Corp.	Armonk	NY	2	2	2	2	2	2	2	2	2
+Icahn Enterprises LP	New York	NY
+Ice Miller LLP	Indianapolis	IN	2	2	2	2	2	2	2	2	2
+iHeartMedia Inc.	San Antonio	TX	2	2	2	2	2	2	2	2
+IHS Markit Ltd.	New York	NY	2	2	2	2	2	2	2	2	2
+IKEA Holding US Inc.	Conshohocken	PA	2	2	2	2	2	2	2	2	2
+Illinois Tool Works Inc.	Glenview	IL	2	2	2		2		2
+Illumina	San Diego	CA	2	2	2	2	2	2	2	2	2
+Indeed Inc.	Austin	TX	2	2	2	2	2	2	2	2	2
+Informa PLC	New York	NY	2	2	2	2	2		2	2	2
+Information Resources Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Infosys Limited Inc.	Plano	TX	2	2	2	2	2		2	2
+Ingersoll-Rand Company	Davidson	NC	2	2	2		2	2	2	2	2
+Ingram Micro	Irvine	CA	2	2	2	2	2	2	2	2	2
+Insight Enterprises Inc.	Tempe	AZ	2	2	2		2	2	2
+Instacart	San Francisco	CA	2	2	2	2	2		2	2
+Intel Corp.	Santa Clara	CA	2	2	2	2	2	2	2	2	2
+Intercontinental Exchange	Atlanta	GA	9	9
+InterContinental Hotels Group Americas	Atlanta	GA	2	2	2	2	2	2	2	2	2
+International Flavors & Fragrances	New York	NY	2	2	2	2	2	2	2	2	2
+International Paper Co.	Memphis	TN	9		2				2
+Interpublic Group of Companies Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+INTL FCStone Inc.	New York	NY	9	9
+Intrado	Omaha	NE	2	2	2	2	2	2	2		2
+Intuit Inc.	Mountain View	CA	2	2	2	2	2	2	2	2	2
+Invesco Ltd.	Atlanta	GA	2	2	2	2		2	2	2
+Iron Mountain Inc.	Boston	MA	2	2	2	2	2	2	2	2	2
+J. B. Hunt Transport Services Inc.	Lowell	AR	9	9
+J. Crew Group Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+J. M. Smucker Co.	Orrville	OH	2	2	2		x	2
+J.C. Penney Co. Inc.	Plano	TX	2	2	2		x	2	2	9	2
+Jabil Circuit Inc.	St. Petersburg	FL	9	9
+Jackson Lewis PC	New York	NY	2	2	2	2	2	2	2	2
+Jackson Walker LLP	Dallas	TX	2	2	2			2	2	2
+Jacobs Engineering Group Inc.	Dallas	TX	2	2	2	2	2	2	2	2	2
+Janus Henderson Investors	Chicago	IL	2	2	2	2	2	2	2	2	2
+Jenner & Block LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+JetBlue Airways Corp.	Long Island City	NY	2	2	2		2	2	2	2	2
+JLL	Chicago	IL	2	2	2	2	2	2	2	2	2
+John Hancock Financial Services Inc.	Boston	MA	2	2	2	2	2	2	2	2	2
+John Wiley & Sons Inc.	Hoboken	NJ	2	2	2	2	2		2	2
+Johnson & Johnson	New Brunswick	NJ	2	2	2	2	2	2	2	2	2
+Johnson Controls Inc.	Milwaukee	WI	2	2	2		2	2	2	2	2
+JPMorgan Chase & Co.	New York	NY	2	2	2	2	2	2	2	2	2
+JSX Corporation (JSX and JetSuite)	Dallas	TX	2	2	2	2	2	2	2	2	2
+K&L Gates LLP	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Kabbage Inc.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Kaiser Permanente	Oakland	CA	2	2	2	2	2	2	2	2	2
+Katten Muchin Rosenman LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+KB Home	Los Angeles	CA	9	9	2
+Kelley Drye & Warren LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Kellogg Co.	Battle Creek	MI	2	2	2	2	2	2	2	2	2
+Kelly Services Inc.	Troy	MI	2	2	2	2	2	2	2	2	2
+Kenneth Cole Productions Inc.	New York	NY	2	2	2	2		2	2	2	2
+Kering Americas Inc.	New York	NY	2	2	2	2	2		2	2	2
+Keurig Dr Pepper Inc.	Plano	TX	2	2	2		2	2	2
+KeyCorp	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Kilpatrick Townsend & Stockton LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Kimberly-Clark Corp.	Irving	TX	2	2	2		2	2	2	2	2
+Kimpton Hotel & Restaurant Group LLC	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Kinder Morgan Inc.	Houston	TX	9	9
+Kindred Healthcare	Louisville	KY	2	2	2	2			2	9
+King & Spalding LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Kirkland & Ellis LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+KKR & Co. LP	New York	NY	2	2	2	2	2	2	2	2	2
+KLA-Tencor Corp.	Milpitas	CA	9	9	2
+Kobre & Kim	New York	NY	2	2	2	2	2	2	2	2	2
+Kohler Co.	Kohler	WI	2	2	2		2	2	2	2	2
+Kohl’s Corp.	Menomonee Falls	WI	2	2	2	2	2	2	2	2	2
+Komatsu Mining Corp.	Milwaukee	WI	2	2	2	x	2		2	2
+Korn Ferry	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+KPMG LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Kraft Heinz Company, The	Chicago	IL	2	2	2	2	2	2	2	2	2
+Kramer Levin Naftalis & Frankel LLP	New York	NY	2	2	2		2	2	2	2
+Kroger Co., The	Cincinnati	OH	2	2	2	2	2	2	2	2	2
+Kutak Rock LLP	Omaha	NE	2	2	2	2	2	2	2	2	2
+L Brands Inc.	Columbus	OH	2	2	2	2	2	2	2	2	2
+L.L. Bean Inc.	Freeport	ME	2	2	2			2
+L-3 Communications Holdings	New York	NY	9	9
+L3 Harris Technologies	Melbourne	FL	2	2	2	2	2	2	2	2	2
+Laboratory Corporation of America Holdings	Burlington	NC	2	2	2	2	2	2	2	2	2
+Laclede Group Inc., The	St. Louis	MO	2	2	2	2				9
+Lam Research Corp.	Fremont	CA	2	2	2	2	2	2	2	2	2
+Land O’Lakes Inc.	Arden Hills	MN	2	2	2		2	2	2	2	2
+Lane Powell PC	Seattle	WA	2	2	2	2	2	2	2	2	2
+Las Vegas Sands Corp.	Las Vegas	NV
+Latham & Watkins LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Lathrop Gage LLP	Kansas City	MO	2	2	2	2	2	2	2	2
+Lear Corp.	Southfield	MI	2	2	2		2	2	2	2	2
+LeClairRyan	Richmond	VA	2	2	2	2	2	2	2	2
+Legg Mason Inc.	Baltimore	MD	2	2	2	2	2	2	2	2	2
+Leidos Holdings	Reston	VA	2	2	2	x	x	2	2	9	2
+Lendlease Americas Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Lennar Corp.	Miami	FL	9	9
+LENOVO (UNITED STATES) INC.	Morrisville	NC	2	2	2	2	2	2	2	2	2
+Leo Burnett Company Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Leucadia National Corporation	New York	NY
+Levi Strauss & Co.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+LexisNexis Legal & Professional	New York	NY	2	2	2	2	2	2	2	9	2
+Lexmark International Inc.	Lexington	KY	2	2	2	2	2	2	2	2	2
+Liberty Interactive Corp.	Englewood	CO
+Liberty Mutual Group	Boston	MA	2	2	2	2	2	2	2	2	2
+LifePoint Health	Brentwood	TN
+Lincoln National Corp.	Radnor	PA	2	2	2	2	2	2	2	2	2
+Linde	Danbury	CT	2	2	2		2	2	2	2	2
+LinkedIn	Sunnyvale	CA	2	2	2	2	2	2	2	2	2
+Lions Gate Entertainment Corp.	Santa Monica	CA	2	2	2	2	2	2	2	2	2
+Lithia Motors, Inc.	Medford	OR
+Littler Mendelson PC	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Live Nation Entertainment Inc.	Beverly Hills	CA	2	2	2	2	2	2	2	2	2
+LKQ Corp.	Chicago	IL
+Locke Lord LLP	Dallas	TX	2	2	2	2	2	2	2	2	2
+Lockheed Martin Corp.	Bethesda	MD	2	2	2	2	2	2	2	2	2
+Loeb & Loeb LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Loews Corp.	New York	NY	2	2	2					9	2
+Lord, Abbett & Co. LLC	Jersey City	NJ	2	2	2	x		2	2	2
+L’Oréal USA Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Lowenstein Sandler LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Lowe’s Companies Inc.	Mooresville	NC	2	2	2	2	2	2	2	2	2
+LPL Financial Holdings Inc.	Boston	MA	2	2	2	2	2	2	2	2	2
+Lubrizol Corp.	Wickliffe	OH	2	2	2	x	2	2	2	9	2
+Lyft Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+M&T Bank Corp.	Buffalo	NY	2	2	2	2	2	2	2	2	2
+Macmillan Learning	New York	NY	2	2	2	2	2	2	2	2	2
+Macmillan Publishing Group	New York	NY	2	2	2	2	2	2	2	2	2
+Macquarie Group Ltd.	New York	NY	2	2	2	2	2	2	2	2	2
+Macy’s Inc.	Cincinnati	OH	2	2	2	2	2	2	2	2	2
+Magellan Health Services Inc.	Scottsdale	AZ
+Mallinckrodt LLC	Hazelwood	MO	2	2	2	2	2	2	2	2	2
+Manatt, Phelps & Phillips LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+ManpowerGroup	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Marathon Oil Corp.	Houston	TX	2	2	2			2	2
+Marathon Petroleum Corp.	Findlay	OH	2	2	2	2	2	2	2	2	2
+Markel Corporation	Glen Allen	VA
+Marriott International Inc.	Bethesda	MD	2	2	2	2	2	2	2	2	2
+Mars Inc.	Mt. Olive	NJ	2	2	2	2	2		2	2	2
+Marsh & McLennan Companies Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Masco Corp.	Livonia	MI	2	2	2			2	2	2	2
+Massachusetts Mutual Life Insurance Co.	Springfield	MA	2	2	2	2	2	2	2	2	2
+MasTec Inc.	Coral Gables	FL	9
+Mastercard	Purchase	NY	2	2	2	2	2	2	2	2	2
+Mathematica Policy Research	Princeton	NJ	2	2	2	2	2	2	2	2	2
+Mattel Inc.	El Segundo	CA	2	2	2	2	2	2	2	2	2
+Mayer Brown LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+McAfee LLC	Santa Clara	CA	9	9	2				x
+McCarter & English LLP	Newark	NJ	2	2	2		x	2	2	2
+McCormick & Company Inc.	Hunt Valley	MD	2	2	2		2		2	2	2
+McDermott Will & Emery LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+McDonald’s Corp.	Oak Brook	IL	2	2	2	2	2	2	2	2	2
+McGraw-Hill Global Education Holdings LLC	New York	NY	2	2	2	2	2	2	2	9	2
+McGuireWoods LLP	Richmond	VA	2	2	2	x	2	2	2	2	2
+McKesson Corp.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+McKinsey & Co. Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Medallia Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Medidata Solutions Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Medtronic PLC	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Meijer Inc.	Grand Rapids	MI	2	2	2	2	2	2	2	2	2
+Mercedes-Benz Financial Services USA LLC (MBFS)	Farmington Hills	MI	2	2	2		2	2	2	2
+Merck	Kenilworth	NJ	2	2	2	2	2	2	2	2	2
+Meredith Corp.	Des Moines	IA	2	2	2	2	x	2	2	2
+Mesirow Financial Holdings Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+MetLife Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+MGM Resorts International	Las Vegas	NV	2	2	2	2	2	2	2	2	2
+Michael Best & Friedrich LLP	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Michael Page International Inc	New York	NY	2	2	2	2	2	2	2	2	2
+Micron Technology Inc.	Boise	ID	2	2	2		x	2	2	2	2
+Microsoft Corp.	Redmond	WA	2	2	2	2	2	2	2	2	2
+Milbank LLP	New York	NY	2	2	2		2	2	2	2	2
+Mintz, Levin, Cohn, Ferris, Glovsky & Popeo PC	Boston	MA	2	2	2	2	2	2	2	2	2
+Mitchell Gold + Bob Williams	Taylorsville	NC	2	2	2	2	2	2	2	2	2
+Mohawk Industries Inc.	Calhoun	GA	9	9	2
+Molina Healthcare Inc.	Long Beach	CA	2	2	2
+Molson Coors Brewing	Denver	CO	2	2	2	2	2	2	2	2	2
+Mondelez International Inc.	Deerfield	IL	2	2	2	2	2	2	2	2	2
+Montgomery McCracken Walker & Rhoads LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Moody’s Corp.	New York	NY	2	2	2	2	2	2	2	2	2
+Moore & Van Allen PLLC	Charlotte	NC	2	2	2	2	2	2	2	2	2
+Morgan Stanley	New York	NY	2	2	2	2	2	2	2	2	2
+Morgan, Lewis & Bockius LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+Morningstar Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Morris, Manning & Martin LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Morrison & Foerster LLP	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Motorola Solutions Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Mozilla Corporation	Mountain View	CA	2	2	2	2	2	2	2	2
+MSLGROUP Americas	New York	NY	2	2	2	2	2	2	2	2	2
+MUFG Union Bank, N.A.	New York	NY	2	2	2	2	2	2	2	2	2
+Munger, Tolles & Olson LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Murphy USA	El Dorado	AR	9	9
+Mutual of Omaha Insurance	Omaha	NE	2	2	2		2	2	2	2	2
+NASDAQ Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+National CineMedia Inc.	Centennial	CO	2	2	2	2	2	2	2	2	2
+National Grid USA	Waltham	MA	2	2	2	2	2	2	2	2	2
+National Oilwell Varco Inc.	Houston	TX	9
+Nationwide	Columbus	OH	2	2	2	2	2	2	2	2	2
+Navient	Wilmington	DE	2	2	2		2	2	2	2	2
+Navistar International Corp.	Lisle	IL	2	2	2			2	2	2	2
+NCR Corp.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Nelson Mullins Riley & Scarborough LLP	Columbia	SC	2	2	2			2	2	2
+Nestle Health Science	Bridgewater	NJ	2	2	2	2	2	2	2	2	2
+Nestlé Purina PetCare Co.	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Nestlé USA Inc.	Arlington	VA	2	2	2	2	2	2	2	2	2
+Nestle Waters North America Inc.	Stamford	CT	2	2	2	2	2	2	2	2	2
+NetApp Inc.	Sunnyvale	CA	2	2	2	2	x	2	2	9	2
+Netflix Inc.	Los Gatos	CA	2	2	2	2	2	2	2	2	2
+New Relic Inc.	San Francisco	CA	2	2	2	2	2	2	2	2
+New York Life Insurance Company	New York	NY	2	2	2	2	2	2	2	2	2
+New York Times Co.	New York	NY	2	2	2	x		2	2
+Newell Brands Inc.	Hoboken	NJ	2	2	2			2	2
+Newmont Goldcorp Corporation	Greenwood Village	CO	2		2	x	2	2	2	9	2
+News Corp.	New York	NY	9	9
+NextEra Energy Inc.	Juno Beach	FL	9	9	2			2	2
+NFP	New York	NY	2	2	2	2	2		2
+NGL Energy Partners	Tulsa	OK
+Nielsen	New York City	NY	2	2	2	2	2	2	2	2	2
+Nike Inc.	Beaverton	OR	2	2	2	2	2	2	2	2	2
+NiSource Inc.	Merrillville	IN	2	2	2		2	2	2	2	2
+Nissan North America Inc.	Franklin	TN	2	2	2		2	2	2	2	2
+Nixon Peabody LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Nokia Inc.	Irving	TX	2	2	2	x	2	2	2	2	2
+Nomura Holding America Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Nordstrom Inc.	Seattle	WA	2	2	2	2	2	2	2	2	2
+Norfolk Southern Corp.	Norfolk	VA	2	2	2			2	2	9	2
+North Memorial Health	Robbinsdale	MN	2	2	2		2	2	2	2	2
+Northern Trust Corp.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Northfield Park Associates, LLC	Northfield	OH	2	2	2		x			9
+Northrop Grumman Corp.	Falls Church	VA	2	2	2	2	2	2	2	2	2
+Northwestern Mutual Life Insurance	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Norton Rose Fulbright	Houston	TX	2	2	2	2	2	2	2	2	2
+NortonLifeLock	Mountain View	CA	2	2	2	2	2	2	2	2	2
+Novartis Pharmaceuticals Corp.	East Hanover	NJ	2	2	2	2	2	2	2	2	2
+Novo Nordisk Inc.	Plainsboro	NJ	2	2	2	2	2	2	2	9	2
+NRG Energy Inc.	Princeton	NJ	2	2	2	2			2		2
+Nuance Communications	Burlington	MA	2	2	2	2	2	2	2	2	2
+Nucor Corp.	Charlotte	NC	9	9
+NVIDIA Corp.	Santa Clara	CA	2	2	2	2	2	2	2	2	2
+NVR Inc.	Reston	VA
+Occidental Petroleum	Houston	TX	9	9
+Ocean Spray Cranberries Inc.	Lakeville-Middleboro	MA	2	2	2	2	2	2	2	2	2
+Office Depot Inc.	Boca Raton	FL	2	2	2	2	2	2	2	2	2
+Ogilvy Group Inc., The	New York	NY	2	2	2	2	2	2	2	2	2
+Ogletree, Deakins, Nash, Smoak & Stewart	Greenville	SC	2	2	2	2	2	2	2	2	2
+Old National Bank	Evansville	IL	2	2	2	2	x	2	2	9	2
+Old Republic International	Chicago	IL	9	9
+Olin Corporation	Clayton	MO	9	9
+O’Melveny & Myers LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Omnicom Group	New York	NY	2	2	2	2	2	2	2	2	2
+ON Semiconductor Corp.	Phoenix	AZ	9	9
+ONE Gas Inc.	Tulsa	OK	2	2	2
+ONEOK Inc.	Tulsa	OK	2	2	2	2	2	2	2	2
+OppenheimerFunds Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Oracle Corp.	Redwood City	CA	2	2	2	2	2	2	2	2	2
+O’Reilly Automotive Inc.	Springfield	MO	9	9
+Orrick, Herrington & Sutcliffe LLP	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Oscar Insurance Corporation	New York	NY	2	2	2	2	2	2	2	2
+Oshkosh Corp.	Oshkosh	WI	2	2	2	x	2		2
+Overstock.com Inc.	Midvale	UT	2	2	2	2		2		2	2
+Owens Corning	Toledo	OH	2	2	2	2	2	2	2	2	2
+Owens-Illinois Inc.	Perrysburg	OH	9	9
+Paccar Inc.	Bellevue	WA	9	9
+Pacific Life Insurance Co.	Newport Beach	CA	2	2	2	2	2	2		9	2
+Packaging Corporation of America	Lake Forest	IL	9	9
+Palo Alto Networks	Santa Clara	CA	2	2	2	2	2	2	2	2	2
+Panera Bread Co.	St. Louis	MO	2	2	2		2	2	2	2	2
+Papa John’s International Inc.	Louisville	KY	2	2	2		2	2	2	2	2
+Parexel International Corp.	Billerica	MA	2	2	2		x	2	2	2
+Pariveda Solutions Inc.	Dallas	TX	2	2	2	2	2	2	2	2
+Parker Hannifin Corp.	Cleveland	OH	9	9
+Parsons	Pasadena	CA	2	2	2	2	x	2	2		2
+Patagonia Inc.	Ventura	CA	2	2	2	2	2	2	2	2
+Patterson Belknap Webb & Tyler LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Patterson Companies (Patterson Dental Supply)	St. Paul	MN	2	2	2
+Paul Hastings LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Paul, Weiss, Rifkind, Wharton & Garrison LLP	New York	NY	2	2	2		2	2	2	2	2
+PayPal Holdings Inc.	San Jose	CA	2	2	2	2	2	2	2	2	2
+PBF Energy	Parsippany	NJ	9	9
+Peabody	St. Louis	MO	2	2	2		2
+Peapod Digital Labs LLC	Chicago	IL	2	2	2	2	2	2	2	2	2
+Pearson Inc.	Hoboken	NJ	2	2	2	2	2	2	2	2	2
+Peloton Interactive Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Penske Automotive Group Inc.	Bloomfield Hills	MI	9	9
+Pepper Hamilton LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+PepsiCo Inc.	Purchase	NY	2	2	2	2	2	2	2	2	2
+Performance Food Group Co.	Richmond	VA	9	9
+Perkins and Will Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+Perkins Coie LLP	Seattle	WA	2	2	2	2	2	2	2	2	2
+Pernod Ricard USA LLC	New York	NY	2	2	2	2	2	2	2	2	2
+Peter Kiewit Sons’ Inc.	Omaha	NE	9
+PetSmart Inc.	Phoenix	AZ	2	2	2		2	2	2	2	2
+Pfizer Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+PG&E Corp.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Philip Morris International Inc.	New York	NY	2	2	2	x	2
+Philips	Andover	MA	2	2	2	x	2	2	2	2
+Phillips 66	Houston	TX	2	2	2	2	2	2	2	2
+Pillsbury Winthrop Shaw Pittman LLP	New York	NY	2	2	2	2	2	2	2	2	2
+PIMCO LLC	Newport Beach	CA	2	2	2	2	2	2	2	2	2
+Pinnacle West Capital	Phoenix	AZ	2	2	2		x		2	9	2
+Pinterest Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Pioneer Natural Resources Company	Irving	TX
+Pitney Bowes Inc.	Stamford	CT	2	2	2	x	x	2	2	2
+Plains Exploration and Production Co.	Houston	TX	9	9
+Plains GP Holdings	Houston	TX
+PNC Financial Services Group Inc., The	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+PNM Resources Inc.	Albuquerque	NM	2	2	2						2
+Polaris Industries Inc.	Medina	MN	9	9
+Polsinelli	Kansas City	MO	2	2	2	2	2	2	2	2	2
+PolyOne Corporation	Avon Lake	OH	2	2	2	2	2	2	2	2	2
+Porter Wright Morris & Arthur LLP	Columbus	OH	2	2	2		2	2	2	2	2
+Portland General Electric Co.	Portland	OR	2	2	2	2	2	2	2	2	2
+PPG Industries Inc.	Pittsburgh	PA	2	2	2		2	2	2	2	2
+PPL Corp.	Allentown	PA	2	2	2	2	2	2	2	2	2
+priceline.com LLC	Norwalk	CT	2	2	2		x	2
+PricewaterhouseCoopers LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Principal Financial Group	Des Moines	IA	2	2	2	2	2	2	2	2	2
+Procter & Gamble Co.	Cincinnati	OH	2	2	2	2	2	2	2	2	2
+Progressive Corp., The	Mayfield Village	OH	2	2	2		x	2	2	2
+PROS	Houston	TX	2	2	2	2	2	2	2	2
+Proskauer Rose LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Prudential Financial Inc.	Newark	NJ	2	2	2	2	2	2	2	2	2
+PTC Inc	Boston	MA	2	2	2		2	2	2	2	2
+Public Service Enterprise Group	Newark	NJ	2	2	2		2	2	2	2
+Publicis Healthcare Communications	New York	NY	2	2	2	2	2	2	2	2	2
+Publicis Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Publicis Media	New York	NY	2	2	2	2	2	2	2	2	2
+Publicis Sapient	Boston	MA	2	2	2	2	2	2	2	2	2
+Publix Super Markets Inc.	Lakeland	FL
+PulteGroup Inc.	Atlanta	GA	9	9
+PVH Corp.	New York	NY	2	2	2	2	2	2	2	2	2
+Quaintance-Weaver Management, LLC	Greensboro	NC	2	2	2	2	2	2	2	2	2
+QUALCOMM Inc.	San Diego	CA	2	2	2		2	2	2	2	2
+Quanta Services	Houston	TX	9	9
+Quantcast Corp.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Quarles & Brady LLP	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Quest Diagnostics Inc.	Secaucus	NJ	2	2	2	2	2	2	2	2	2
+Quinn Emanuel Urquhart & Sullivan LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Quintiles Transnational	Durham	NC
+Qurate Retail Group, Inc.	West Chester	PA	2	2	2	2	2	2	2	2	2
+R.R. Donnelley & Sons Co.	Chicago	IL	2	2	2	x	2	2	2	2	2
+Rackspace	San Antonio	TX	2	2	2	2	2	2	2	2	2
+Ralph Lauren Corp.	New York	NY	2	2	2	2	2	2	2	2	2
+Randstad USA	Atlanta	GA	2	2	2	x	2	2	2	2
+Raymond James Financial Inc.	St. Petersburg	FL	2	2	2	2	2	2	2	2	2
+Raytheon Co.	Waltham	MA	2	2	2		2	2	2	2	2
+RBC Capital Markets LLC	New York	NY	2	2	2	2	2	2	2	2	2
+RBC Wealth Management	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Re:Sources USA Inc.	Long Island City	NY	2	2	2	2	2	2	2	2	2
+Realogy Holdings Corp.	Madison	NJ	2	2	2		2	2	2	2	2
+Recreational Equipment Inc.	Kent	WA	2	2	2	2	x	2	2	2
+Redfin Corp.	Seattle	WA	2	2	2		x	2	2
+Reed Smith LLP	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Regal Entertainment Group	Knoxville	TN	2	2	2			2	2
+Regeneron Pharmaceuticals	Tarrytown	NY	9	9
+Regions Financial Corp.	Birmingham	AL	2	2	2	2	2	2	2	2	2
+Regis Corp.	Edina	MN	9		2
+Reinhart Boerner Van Deuren s.c.	Milwaukee	WI	2	2	2	2	2	2	2	9	2
+Reinsurance Group of America Inc.	Chesterfield	MO	2	2	2			2	2	2	2
+Reliance Steel & Aluminum Co.	Los Angeles	CA
+Relias LLC	Morrisville	NC	2	2	2	2	2	2	2
+Replacements Ltd.	McLeansville	NC	2	2	2	2	2	2	2	2	2
+Republic Services Inc.	Phoenix	AZ	2	2	2		x	2	2	2	2
+Restaurant Brands International	Miami	FL	2	2	2	2	2	2	2	2	2
+Retail Business Services	Salisbury	NC	2	2	2	2	2	2	2	2	2
+Reynolds American Inc.	Winston-Salem	NC	2	2	2	2	2	2	2	2	2
+RingCentral Inc.	Belmont	CA	2	2	2	2	2	2	2	2	2
+Rite Aid Corp.	Camp Hill	PA	2	2	2				2
+Robert Bosch Corp.	Farmington Hills	MI	2	2	2	x	2	2	2	2	2
+Robert Half	Menlo Park	CA	2	2	2	2	2	2	2	2	2
+Robert W. Baird & Co. Incorporated	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Robins Kaplan LLP	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Roche Diagnostics Corp.	Indianapolis	IN	2	2	2	2	2	2	2	2	2
+Rockland Trust Co.	Rockland	MA	2	2	2	2	2	2	2	2	2
+Rockwell Automation Inc.	Milwaukee	WI	2	2	2	2	2	2	2	2	2
+Rolls-Royce North America (USA) Holdings Co.	Reston	VA	2	2	2	2	2	2	2	2	2
+Ropes & Gray LLP	Boston	MA	2	2	2	2	2	2	2	2	2
+Ross Stores Inc.	Dublin	CA	2	2	2		2	2	2	9	2
+Royal Caribbean Cruises Ltd.	Miami	FL	2	2	2	2	2	2	2	2	2
+RSM US LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Ryder System Inc.	Miami	FL	2	2	2	x		2	2	2
+S&P Global Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+S.C. Johnson & Son Inc.	Racine	WI	2	2	2	2	2	2	2	2	2
+Saatchi & Saatchi North America Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Sabre Holdings Inc.	Southlake	TX	2	2	2				2
+Saint-Gobain Corp.	Malvern	PA	2	2	2		2	2	2	2	2
+Saks Inc.	New York	NY	9	9	2			2	2
+Salesforce	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Sally Beauty Holdings Inc.	Denton	TX	2	2	2			2	2	2
+Samsung Electronics America Inc.	Ridgefield Park	NJ	2	2	2	2	2	2	2	2	2
+Sanderson Farms Inc.	Laurel	MS	2	2	2
+Sanmina-SCI	San Jose	CA	9	9
+Sanofi	Bridgewater	NJ	2	2	2	2	2	2	2	2	2
+SAP America Inc.	Newtown Square	PA	2	2	2	2	2	2	2	2	2
+Saul Ewing Arnstein & Lehr LLP	Philadelphia	PA	2	2	2	2	2	2	2	2	2
+SBE	Los Angeles	CA	9	9	2			2
+Schiff Hardin LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Schneider Electric	Andover	MA	2	2	2	2		2	2	9	2
+Scholastic Corp.	New York	NY	2	2	2				2	9	2
+Schulte, Roth & Zabel LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Science Applications International Corp.	Reston	VA	2	2	2	2	2	2	2	2	2
+Seaboard Corp.	Merriam	KS
+Seacoast National Bank	Stuart	FL	2	2	2	2	2	2	2	2	2
+Seagate Technology plc	Cupertino	CA	2	2	2	2	2	2	2	2	2
+Sealed Air Corp.	Charlotte	NC
+Securian Financial Group Inc.	St. Paul	MN	2	2	2		2	2	2	2
+Selective Insurance Group	Branchville	NJ	9	9	2				2
+Sempra Energy	San Diego	CA	2	2	2	2	2	2	2	2	2
+Sephora	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Seyfarth Shaw LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Shake Shack Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Shearman & Sterling LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Shell Oil Co.	Houston	TX	2	2	2	2	2	2	2	2	2
+Sheppard, Mullin, Richter & Hampton LLP	Los Angeles	CA	2	2	2	2	2	2	2	2	2
+Sherwin-Williams Co., The	Cleveland	OH	2	2	2	2	2	2	2	2
+Shook, Hardy & Bacon LLP	Kansas City	MO	2	2	2	2	2	2	2	2	2
+Sidley Austin LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Siemens Corp.	Washington	DC	2	2	2	2	2	2	2	2	2
+Siemens Healthineers USA	Tarrytown	NY	2	2	2	2	2	2	2	2	2
+Simon Property Group Inc.	Indianapolis	IN	9	9
+Simpson Thacher & Bartlett LLP	New York	NY	2	2	2	2	2	2	2	2	2
+SIRIUS XM + Pandora	New York	NY	2	2	2	2	2	2	2	2	2
+Skadden, Arps, Slate, Meagher & Flom LLP	New York	NY	2	2	2	2	2	2	2	2	2
+SkyWest Inc.	St. George	UT	2	2	2			2	2	9
+Slalom	Seattle	WA	2	2	2	2	2	2	2	2	2
+SLM Corp. (Sallie Mae)	Newark	DE	2	2	2	x		2
+Snagajob.com Inc.	Glen Allen	VA	2	2	2	2	2	2	2	2
+Snell & Wilmer	Phoenix	AZ	2	2	2	2	2	2	2	2	2
+Société Générale	New York	NY	2	2	2	2	2	2	2	2	2
+Sodexo Inc.	Gaithersburg	MD	2	2	2	2	2	2	2	2	2
+Softchoice Corp.	Toronto	ON	2	2	2	2	2	2	2	9	2
+Software AG USA Inc.	Reston	VA	9	9	2				2
+Software House International	Somerset	NJ	9	9	2
+Sonic Automotive Inc.	Charlotte	NC
+Sonoco Products Company	Hartsville	SC	2	2					2		2
+Sony Corporation of America	New York	NY	2	2	2	2	2	2	2	2	2
 Sony Electronics Inc.	San Diego	CA	2	2	2	2	2	2	2	2	2
+Sony Interactive Entertainment LLC	San Mateo	CA	2	2	2	2	2	2	2	2	2
+Sony Pictures Entertainment Inc.	Culver City	CA	2	2	2	2	2	2	2	2	2
+Southern Co.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Southwest Airlines Co.	Dallas	TX	2	2	2	2	2	2	2	2	2
+SpartanNash	Byron Center	MI	2	2	2		2	2			2
+Spirit AeroSystems Inc.	Wichita	KS	2	2	2	2	x	2	2	9	2
+Spotify USA Inc.	New York	NY	2	2	2	2	2	2	2	2
+Sprint Corp.	Overland Park	KS	2	2	2	2	2	2	2	2	2
+Squarespace	New York	NY	2	2	2	2	x	2	2	2
+Squire Patton Boggs	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Standard Chartered	New York	NY	2	2	2	2	2	2	2	2	2
+Standard Insurance Co.	Portland	OR	2	2	2	2	2	2	2	2	2
+Stanley Black & Decker Inc.	New Britain	CT	2	2	2	2	2	2	2	2	2
 Staples Inc.	Framingham	MA	2	2	2	2	2	2	2	2	2
 Starbucks Corp.	Seattle	WA	2	2	2	2	2	2	2	2	2
+State Farm Group	Bloomington	IL	2	2	2	2	2	2	2	2	2
+State Street Corp.	Boston	MA	2	2	2	2	2	2	2	2	2
+Steel Dynamics Inc.	Fort Wayne	IN	2	2	2			2			2
+Steelcase Inc.	Grand Rapids	MI	2	2	2	2	2	2	2	2	2
+Steptoe & Johnson LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Stinson LLP	Kansas City	MO	2	2	2	2	2	2	2	2	2
+Stoel Rives LLP	Portland	OR	2	2	2	2	2	2	2	2	2
+Stop & Shop	Quincy	MA	2	2	2	2	2	2	2	2	2
+Stryker Corp.	Kalamazoo	MI	2	2	2	2	2	2	2	2	2
+Subaru of America Inc.	Cherry Hill	NJ	2	2	2	2	2	2	2	2	2
+Sullivan & Cromwell LLP	New York	NY	2	2	2		2	2	2	2
+Sumitomo Mitsui Banking Corporation	New York	NY	2	2	2	2	2	2	2	2	2
+Sun Life Financial Inc. (US)	Wellesley Hills	MA	2	2	2	2	2	2	2	2	2
+Sunrun Inc.	San Francisco	CA	2	2	2	2		2	2
+SunTrust Banks Inc.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+Supervalu Inc.	Eden Prairie	MN	9	9	2				2
+Synchrony	Stamford	CT	2	2	2	2	2	2	2	2	2
+SYNNEX Corp.	Fremont	CA	2	2	2	2	x	2	2	2	2
+SYSCO Corp.	Houston	TX	2	2	2		2	2	2
+T. Rowe Price Associates Inc.	Baltimore	MD	2	2	2	2	2	2	2	2	2
+Tailored Brands Inc.	Houston	TX	2	2	2	2	2	2	2	2
+Takeda Pharmaceuticals USA Inc.	Deerfield	IL	2	2	2	2	2	2	2	2	2
 Tapestry Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Targa Resources Corp.	Houston	TX
 Target Corp.	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+TD Ameritrade	Omaha	NE	2	2	2	2	2	2	2	2	2
+TD Bank, N.A.	Cherry Hill	NJ	2	2	2	2	2	2	2	2	2
+TD Securities (USA) LLC	New York	NY	2	2	2	2	2	2	2	2	2
+TE Connectivity Inc.	Berwyn	PA	2	2	2	2	2	2	2	2	2
+Tech Data Corp.	Clearwater	FL	2	2	2	2	2	2	2	2	2
+TEGNA Inc.	McLean	VA	2	2	2	2	2	2	2	2	2
+TENET Healthcare Corporation	Dallas	TX	2	2	2	2	2			2	2
+Tesla Inc.	Palo Alto	CA	2	2	2	2	2	2	2	2	2
+Teva Pharmaceutical USA Inc.	North Wales	PA	2	2	2	2	2	2	2	2	2
+Texas Instruments Inc.	Dallas	TX	2	2	2	2	2	2	2	2	2
+The Auto Club Group	Dearborn	MI	2	2	2				2	9
+The Bama Companies Inc.	Tulsa	OK	2	2	2	2	2	2	2
+The Chemours Company	Wilmington	DE	2	2	2		x	2	2	9	2
+The Knot Worldwide	Chevy Chase	MD	2	2	2	2	2	2	2	2	2
+The Michaels Companies Inc.	Irving	TX	2	2	2	x			2
+Thermo Fisher Scientific Inc.	Waltham	MA	2	2	2	2	2	2	2	2	2
+Thompson & Knight LLP	Dallas	TX	2	2	2		2	2	2	2
+Thompson Coburn LLP	St. Louis	MO	2	2	2	2	2	2	2	2	2
+Thompson Hine LLP	Cleveland	OH	2	2	2	2	2	2	2	2	2
+Thomson Reuters	New York	NY	2	2	2	2	2	2	2	2	2
+Thor Industries Inc.	Elkhart	IN
+Thrivent Financial	Minneapolis	MN	2	2	2	x	2		2	2
+TIAA	New York	NY	2	2	2	2	2	2	2	2	2
 Tiffany & Co.	New York	NY	2	2	2	2	2	2	2	2	2
+TJX Companies Inc., The	Framingham	MA	2	2	2		2	2	2	2	2
+T-Mobile USA Inc.	Bellevue	WA	2	2	2	2	2	2	2	2	2
+Toll Brothers Inc.	Horsham	PA	2	2	2			2	2
+Toyota Motor North America Inc.	Plano	TX	2	2	2	2	2	2	2	2	2
+TPG Global LLC	Fort Worth	TX	2	2	2	2	2	2	2	2	2
+Tractor Supply Company	Brentwood	TN
+Transamerica Corp., The	Cedar Rapids	IA	2	2	2	2	2	2	2	2	2
+TransUnion	Chicago	IL	2	2	2	2	2	2	2	2	2
+TravelCenters of America	Westlake	OH	9
+Travelers Companies Inc., The	New York	NY	2	2	2	2	2	2	2	2	2
+Travelport Ltd.	Atlanta	GA	2	2	2	2
+TreeHouse Foods Inc.	Oak Brook	IL	9	9
+TripAdvisor Inc.	Needham	MA	2	2	2	2	2	2	2	2	2
+Troutman Sanders LLP	Atlanta	GA	2	2	2	2	2	2	2	2	2
+True Value Co. LLC	Chicago	IL	2	2	2			2	2	2
+Tufts Health Plan	Watertown	MA	2	2	2	2	2	2	2	2	2
+Turner Construction Co.	New York	NY	2	2	2	2	2	2	2	2	2
+Twitter Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Tyson Foods Inc.	Springdale	AR	2	2	2		2	2	2	2
+U.S. Bancorp	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+U.S. Cellular	Chicago	IL	2	2	2	2	2	2	2	2	2
+Uber Technologies Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+UBS AG	New York	NY	2	2	2	2	2	2	2	2	2
+UGI Corp.	King of Prussia	PA	9	9
+Ulta Salon, Cosmetics & Fragrance	Bolingbrook	IL	9	9
+Ultimate Software	Weston	FL	2	2	2		2	2	2	2	2
+Under Armour Inc.	Baltimore	MD	2	2	2	2	2	2	2	2	2
 Unilever	Englewood Cliffs	NJ	2	2	2	2	2	2	2	2	2
+Union Pacific Corp.	Omaha	NE	2	2	2	x	2	2	2	2	2
+Unisys Corp.	Blue Bell	PA	2	2	2	2	2	2
+United Airlines Holdings, Inc.	Chicago	IL	2	2	2	2	2	2	2	2	2
+United Natural Foods Inc.	Providence	RI	9	9
+United Parcel Service Inc.	Atlanta	GA	2	2	2	2	2	2	2	2	2
+United Rentals Inc.	Stamford	CT	2	2	2	2
+United Services Automobile Association	San Antonio	TX	2	2	2	2	2	2	2	2	2
+United States Steel Corp.	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+United Technologies Corp.	Farmington	CT	2	2	2	2	2	2	2	2	2
+UnitedHealth Group Inc.	Minnetonka	MN	2	2	2	2	2	2	2	2	2
+Univar Solutions Inc.	Downers Grove	IL	2	2	2	2	x		2	2	2
+Universal Health Services, Inc.	King of Prussia	PA	9	9
+University of Phoenix	Phoenix	AZ	2	2	2	2	2	2	2	2	2
+Univision Communications Inc.	Miami	FL	2	2	2	2	2	2	2	2	2
+Unum Group	Chattanooga	TN	2	2	2	2	2	2	2	2	2
+UPMC Health Plan	Pittsburgh	PA	2	2	2	2	2	2	2	2	2
+Urban Outfitters Inc.	Philadelphia	PA	2	2	2		2		2	2
+US Foods Inc.	Rosemont	IL	9	9	2
+USG Corp.	Chicago	IL	2	2	2
+Valero Energy Corp.	San Antonio	TX	9	9
+Vanguard Group Inc.	Malvern	PA	2	2	2	2	2	2	2	2	2
+Veritas Technologies LLC	Mountain View	CA	2	2			x		2	9	2
+Veritiv	Atlanta	GA	9	9
+Verizon Communications Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+VERMEG SARL	New York	NY	2	2	2	2	2	2	2	2	2
+Vertex Pharmaceuticals Inc.	Boston	MA	2	2	2	2	2	2	2	2	2
+VF Corp.	Greensboro	NC	2	2	2	2	2	2	2	2	2
+Viacom Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Vinson & Elkins LLP	Houston	TX	2	2	2	2	2	2	2	2	2
+Virgin Orbit	Long Beach	CA	2	2	2	2	2	2	2	2
+Visa	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Vision Service Plan	Rancho Cordova	CA	9	9	2				2
+Vistra Energy	Irving	TX	9	9
+Vivint Smart Home Inc.	Provo	UT	2	2	2		2	2	2	2
+VMware Inc.	Palo Alto	CA	2	2	2	2	2	2	2	2	2
+Volkswagen Group of America Inc.	Herndon	VA	2	2	2		2	2	2	2	2
+Vorys, Sater, Seymour and Pease LLP	Columbus	OH	2	2	2	2	2	2	2	2	2
+Vox Media Inc.	Washington	DC	2	2	2	2	2	2	2	2	2
+Voya Financial	New York	NY	2	2	2	2	2	2	2	2	2
+W.R. Berkley	Greenwich	CT	9	9
+W.W. Grainger Inc.	Lake Forest	IL	2	2	2	2	2	2	2	2	2
+Wachtell, Lipton, Rosen & Katz	New York	NY	2	2	2		2	2	2	2	2
+Waddell & Reed Financial Inc.	Overland Park	KS	2	2	2	2	2	2	2	2
 Walgreen Co.	Deerfield	IL	2	2	2	2	2	2	2	2	2
 Walmart Inc.	Bentonville	AR	2	2	2	2	2	2	2	2	2
+Walt Disney Co., The	Burbank	CA	2	2	2	2	2	2	2	2	2
+Warby Parker	New York	NY	2	2	2	2	2	2	2	2	2
+Warner Media	New York	NY	2	2	2	2	2	2	2	2	2
+Warner Music Group	New York	NY	2	2	2	2	2	2	2	2	2
+Washington Permanente Medical Group	Renton	WA	2	2	2	2	2	2	2	9	2
+Waste Management Inc.	Houston	TX	2	2	2		2	2	2	2	2
 Wawa Inc.	Wawa	PA	2	2	2	2	2	2	2	2	2
-Caleres	St. Louis	MO	2	2	2	x	2	2	2	2	2
-Patagonia Inc.	Ventura	CA	2	2	2	2	2	2	2	2
-Advance Auto Parts (Advance Holding)	Raleigh	NC	2	2	2		2	2	2	2	2
-American Eagle Outfitters Inc.	Pittsburgh	PA	2	2	2		2	2	2	2	2
-B J’s Wholesale Club	Westborough	MA	2	2	2		2	2	2	2	2
-Big Lots	Columbus	OH	2	2	2		2	2	2	2	2
-Brooks Brothers Group Inc.	New York	NY	2	2	2	2		2	2	2	2
-Dollar General Corp.	Goodlettsville	TN	2	2	2		2	2	2	2	2
-Home Depot Inc., The	Atlanta	GA	2	2	2		2	2	2	2	2
-Kenneth Cole Productions Inc.	New York	NY	2	2	2	2		2	2	2	2
-Kimberly-Clark Corp.	Irving	TX	2	2	2		2	2	2	2	2
-PetSmart Inc.	Phoenix	AZ	2	2	2		2	2	2	2	2
-Recreational Equipment Inc.	Kent	WA	2	2	2	2	x	2	2	2
-TJX Companies Inc., The	Framingham	MA	2	2	2		2	2	2	2	2
-Ross Stores Inc.	Dublin	CA	2	2	2		2	2	2	9	2
-Avon Products Inc.	Rye	NY	2	2	2	2	x	2	2		2
-Books-A-Million Inc.	Birmingham	AL	2	2	2	x		2	2	2
-Burlington Stores Inc.	Burlington	NJ	2	2	2	2	x		2	9	2
-Crate and Barrel / CB2	Northbrook	IL	2	2	2		2	2		2	2
-Dick’s Sporting Goods Inc.	Coraopolis	PA	2	2	2			2	2	2	2
-
-
-
-
-	Rating
-
-2020CEIRating	2019CEIRating	Fortune 1000
-
-100	100
-
-	85   140
-
-	100   132
-
-	100  555
-
-	100   39
-
-	100  590
-
-	100
-
-	100    19
-
-	1001
-
-	95
-
-	100   778
-
-	30
-
-	85   317
-
-	85  622
-
-	85   221
-
-	20   510
-
-	85
-
-	90   123
-
-90	90	23
-90	90
-
-	90   163
-
-	90  386
-
-	90
-
-90	90	85
-
-	75  209
+Wayfair	Boston	MA	2	2	2	2	x		2	2	2
+WE Communications	Bellevue	WA	2	2	2	2	2	2	2	2	2
+WEC Energy Group	Milwaukee	WI	9	9	2				2
+Weil, Gotshal & Manges LLP	New York	NY	2	2	2	2	2	2	2	2	2
+WellCare Health Plans Inc.	Tampa	FL	2	2	2	2	2	2	2	2	2
+Wellmark Inc.	Des Moines	IA	2	2	2	2	2	2	2	2	2
+Wells Fargo & Co.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Wendy’s Co., The	Dublin	OH	2	2	2	2	2	2	2	2	2
+WESCO International Inc.	Pittsburgh	PA	2	2	2	x
+West Monroe Partners LLC	Chicago	IL	2	2	2	2	2	2	2	2
+Western & Southern Financial Group	Cincinnati	OH
+Western Digital Corp.	San Jose	CA	2	2	2	2	2	2	2	2	2
+Western Union Co., The	Englewood	CO	2	2	2	2		2	2	9
+Westlake Chemical	Houston	TX	9	9
+WestRock	Atlanta	GA	2	2	2	2	2	2		2	2
+Weyerhaeuser Co.	Seattle	WA	2	2	2	2	2	2	2	2
+Whirlpool Corp.	Benton Harbor	MI	2	2	2	2	2	2	2	2	2
+White & Case LLP	New York	NY	2	2	2	2	2	2	2	2	2
+Wiley Rein LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+William Blair & Company LLC	Chicago	IL	2	2	2	x	2	2	2	2	2
+Williams Companies Inc.	Tulsa	OK	2	2	2	2		2	2	2	2
+Williams Mullen	Richmond	VA	2	2	2	2	2	2	2	2	2
+Williams-Sonoma Inc.	San Francisco	CA	2	2	2		2	2	2	2	2
+Willis Towers Watson	Arlington	VA	2	2	2	2	2	2	2	2	2
+Willkie Farr & Gallagher LLP	New York	NY	2	2	2		2	2	2	2
+Wilmer Cutler Pickering Hale & Dorr LLP	Washington	DC	2	2	2	2	2	2	2	2	2
+Wilson Sonsini Goodrich & Rosati PC	Palo Alto	CA	2	2	2	2	2	2	2	2	2
+Windstream Corp.	Little Rock	AR	2	2	2		2	2	2
+Winn-Dixie Stores Inc.	Jacksonville	FL	9		2				2
+Winston & Strawn LLP	Chicago	IL	2	2	2	2	2	2	2	2	2
+Wipro Ltd.	East Brunswick	NJ	2	2	2	x	2	2	2	2
+Womble Bond Dickinson (US) LLP	Winston-Salem	NC	2	2	2	2	2	2	2	2	2
+Workday Inc.	Pleasanton	CA	2	2	2	2	2	2	2	2	2
+World Fuel Services	Miami	FL	9	9
+WPP Group USA	New York	NY	2	2	2	2	x	2	2	9
+Wyndham Destinations	Orlando	FL	2	2	2	2	2	2	2	2	2
+Wyndham Hotels & Resorts Inc.	Parsippany	NJ	2	2	2	2	2	2	2	2	2
+Wynn Resorts Ltd.	Las Vegas	NV	2	2	2		2	2	2	2	2
+Xcel Energy Inc.	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Xerox Corp.	Norwalk	CT	2	2	2	2	2	2	2	2	2
+XPO Logistics	Greenwich	CT	2	2	2		2	2	2	2
+Xylem Inc.	Rye Brook	NY	2	2	2	2	2	2	2	2	2
+Yelp Inc.	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Yext Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Young’s Market Co.	Tustin	CA	2	2	2			2	2	2
+YRC Worldwide Inc.	Overland Park	KS	9		2
+Yum China Holdings	Plano	TX	2	2
+Yum! Brands Inc.	Louisville	KY	2	2	2			2	2	2	2
+Zendesk Inc	San Francisco	CA	2	2	2	2	2	2	2	2	2
+Zillow Group	Seattle	WA	2	2	2	2	2	2	2	2	2
+Zimmer Biomet Holdings Inc.	Warsaw	IN	9	9
+ZS Associates Inc.	Evanston	IL	2	2	2	2	2	2	2	2	2
+Zurich North America	Schaumburg	IL	2	2	2	x	2	2	2	2
