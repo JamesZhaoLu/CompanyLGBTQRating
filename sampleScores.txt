@@ -1,0 +1,86 @@
+Sony Electronics Inc.	San Diego	CA	2	2	2	2	2	2	2	2	2
+Staples Inc.	Framingham	MA	2	2	2	2	2	2	2	2	2
+Starbucks Corp.	Seattle	WA	2	2	2	2	2	2	2	2	2
+Tapestry Inc.	New York	NY	2	2	2	2	2	2	2	2	2
+Target Corp.	Minneapolis	MN	2	2	2	2	2	2	2	2	2
+Tiffany & Co.	New York	NY	2	2	2	2	2	2	2	2	2
+Unilever	Englewood Cliffs	NJ	2	2	2	2	2	2	2	2	2
+Walgreen Co.	Deerfield	IL	2	2	2	2	2	2	2	2	2
+Walmart Inc.	Bentonville	AR	2	2	2	2	2	2	2	2	2
+Wawa Inc.	Wawa	PA	2	2	2	2	2	2	2	2	2
+Caleres	St. Louis	MO	2	2	2	x	2	2	2	2	2
+Patagonia Inc.	Ventura	CA	2	2	2	2	2	2	2	2
+Advance Auto Parts (Advance Holding)	Raleigh	NC	2	2	2		2	2	2	2	2
+American Eagle Outfitters Inc.	Pittsburgh	PA	2	2	2		2	2	2	2	2
+B J’s Wholesale Club	Westborough	MA	2	2	2		2	2	2	2	2
+Big Lots	Columbus	OH	2	2	2		2	2	2	2	2
+Brooks Brothers Group Inc.	New York	NY	2	2	2	2		2	2	2	2
+Dollar General Corp.	Goodlettsville	TN	2	2	2		2	2	2	2	2
+Home Depot Inc., The	Atlanta	GA	2	2	2		2	2	2	2	2
+Kenneth Cole Productions Inc.	New York	NY	2	2	2	2		2	2	2	2
+Kimberly-Clark Corp.	Irving	TX	2	2	2		2	2	2	2	2
+PetSmart Inc.	Phoenix	AZ	2	2	2		2	2	2	2	2
+Recreational Equipment Inc.	Kent	WA	2	2	2	2	x	2	2	2
+TJX Companies Inc., The	Framingham	MA	2	2	2		2	2	2	2	2
+Ross Stores Inc.	Dublin	CA	2	2	2		2	2	2	9	2
+Avon Products Inc.	Rye	NY	2	2	2	2	x	2	2		2
+Books-A-Million Inc.	Birmingham	AL	2	2	2	x		2	2	2
+Burlington Stores Inc.	Burlington	NJ	2	2	2	2	x		2	9	2
+Crate and Barrel / CB2	Northbrook	IL	2	2	2		2	2		2	2
+Dick’s Sporting Goods Inc.	Coraopolis	PA	2	2	2			2	2	2	2
+
+
+
+
+	Rating
+
+2020CEIRating	2019CEIRating	Fortune 1000
+
+100	100
+
+	85   140
+
+	100   132
+
+	100  555
+
+	100   39
+
+	100  590
+
+	100
+
+	100    19
+
+	1001
+
+	95
+
+	100   778
+
+	30
+
+	85   317
+
+	85  622
+
+	85   221
+
+	20   510
+
+	85
+
+	90   123
+
+90	90	23
+90	90
+
+	90   163
+
+	90  386
+
+	90
+
+90	90	85
+
+	75  209
